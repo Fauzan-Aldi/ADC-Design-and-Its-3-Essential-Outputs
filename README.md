@@ -1,4 +1,4 @@
-## ADC-Design-and-Its-3-Essential-Outputs
+## ADC Design And Its 3 Essential Outputs
 
 Highschool Thesis about Analog to Digital Converter implemented with 
 3 Different Outputs:
