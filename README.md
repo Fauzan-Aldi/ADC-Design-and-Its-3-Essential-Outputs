@@ -7,7 +7,7 @@ Highschool Thesis about Analog to Digital Converter implemented with
 - Display
 
 
-# Projects
+## Projects
 - Adjustable Speaker Volume using potentiometer
 - Remote Controlled Servo using joystick
 - Number Cycle on 7-segment display
